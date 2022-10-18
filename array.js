@@ -1,0 +1,15 @@
+// // var friendsAge = [45, 56, 56, 55,];
+// // var chanacurMuriFree = [46, 46, 4634, 556,];
+// // var naika = ["mahi", "sabana", "ema"];
+// // var favoriteFriuts = ['apple', 'kola', 'orange'];
+// // var vowels = ['a', 'e', 'i', 'o', 'u'];
+// // console.log(naika);
+// // console.log(vowels);
+// // console.log(chanacurMuriFree);
+// // console.log(friendsAge);
+// // console.log(typeof favoriteFriuts);
+// var members = ['sadik', 'sadia','joynu', 'reba'];
+// console.log(members.length);
+// var tems = ['sakib', 'mortuja', 'riyad', 'al-amin', 'mahmudullah', 'nasir', 'sommo sorkar', 'tamim' ];
+// var temsCounts = tems.length;
+// console.log(temsCounts);
